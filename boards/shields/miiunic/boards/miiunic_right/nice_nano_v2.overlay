@@ -47,6 +47,6 @@
         dr-gpios = <&pro_micro 1 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>;
         sleep;
         x-invert;
-        sensitivity = "3x";
+        sensitivity = "2x";
     };
 };
