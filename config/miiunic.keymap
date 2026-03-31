@@ -32,10 +32,10 @@
         Symbols {
             display-name = "Sym-Arrows";
             bindings = <
-&trans  &trans  &kp EXCL  &trans  &kp HASH  &kp DOLLAR                  &trans  &kp QUESTION    &kp UP_ARROW    &trans           &trans  &trans
-&trans  &trans  &trans    &trans  &trans    &trans                      &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans  &trans
-&trans  &trans  &trans    &trans  &trans    &trans                      &trans  &trans          &trans          &trans           &trans  &trans
-                          &trans  &trans    &trans      &trans  &trans  &trans  &trans          &trans
+&trans  &trans  &kp EXCL          &kp AT_SIGN        &kp HASH              &kp DOLLAR                             &kp AMPERSAND    &kp QUESTION    &kp UP_ARROW    &trans           &kp CARET             &trans
+&trans  &trans  &kp LESS_THAN     &kp GREATER_THAN   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS                  &kp UNDERSCORE   &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp DOUBLE_QUOTES     &trans
+&trans  &trans  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE        &kp RIGHT_BRACE                        &kp NON_US_HASH  &trans          &trans          &trans           &kp NON_US_BACKSLASH  &trans
+                                  &trans             &trans                &trans                 &trans  &trans  &trans           &trans          &trans
             >;
         };
 
