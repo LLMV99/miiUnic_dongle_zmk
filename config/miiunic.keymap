@@ -32,7 +32,7 @@
         Symbols {
             display-name = "Sym-Arrows";
             bindings = <
-&trans  &trans  &kp EXCL  &trans  &kp HASH  &kp DOLLAR                  &trans  &trans          &kp UP_ARROW    &trans           &trans  &trans
+&trans  &trans  &kp EXCL  &trans  &kp HASH  &kp DOLLAR                  &trans  &kp QUESTION    &kp UP_ARROW    &trans           &trans  &trans
 &trans  &trans  &trans    &trans  &trans    &trans                      &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans  &trans
 &trans  &trans  &trans    &trans  &trans    &trans                      &trans  &trans          &trans          &trans           &trans  &trans
                           &trans  &trans    &trans      &trans  &trans  &trans  &trans          &trans
