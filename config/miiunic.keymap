@@ -10,7 +10,7 @@
             bindings = <
 &kp TAB           &kp Q    &kp W  &kp E           &kp R         &kp T                            &kp Y       &kp U          &kp I      &kp O    &kp P   &kp ESCAPE
 &kp LSHFT         &kp A    &kp S  &kp D           &kp F         &kp G                            &kp H       &kp J          &kp K      &kp L    &trans  &kp RSHFT
-&kp LEFT_CONTROL  &lt 2 Z  &kp X  &kp C           &kp V         &kp B                            &kp N       &kp M          &kp COMMA  &kp DOT  &trans  &trans
+&kp LEFT_CONTROL  &lt 2 Z  &kp X  &kp C           &kp V         &kp B                            &kp N       &kp M          &kp COMMA  &kp DOT  &trans  &studio_unlock
                                     &kp LEFT_ALT  &kp LEFT_GUI  &kp SPACE  &kp C_MUTE  &kp C_PP  &kp RETURN  &kp BACKSPACE  &kp RALT
             >;
 
@@ -35,7 +35,7 @@
 
 &kp TAB           &kp EXCLAMATION       &kp QUESTION      &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp PLUS                            &kp DOLLAR      &kp GRAVE         &kp LS(PERCENT)           &kp LS(NUMBER_3)   &kp CARET            &kp ESCAPE
 &kp LSHFT         &kp LESS_THAN         &kp GREATER_THAN  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp MINUS                           &kp EQUAL       &kp SINGLE_QUOTE  &kp AMPERSAND             &kp DOUBLE_QUOTES  &kp LS(SEMICOLON)    &kp RSHFT
-&kp LEFT_CONTROL  &kp NON_US_BACKSLASH  &kp SLASH         &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp ASTERISK                        &kp UNDERSCORE  &kp AT_SIGN       &kp LS(NON_US_BACKSLASH)  &kp NON_US_HASH    &kp LS(NON_US_HASH)  &trans
+&kp LEFT_CONTROL  &kp NON_US_BACKSLASH  &kp SLASH         &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp ASTERISK                        &kp UNDERSCORE  &kp AT_SIGN       &kp LS(NON_US_BACKSLASH)  &kp NON_US_HASH    &kp LS(NON_US_HASH)  &studio_unlock
                                                           &kp LEFT_ALT          &kp LEFT_GUI           &kp SPACE     &kp C_MUTE  &kp C_PP  &kp RETURN      &kp BACKSPACE     &kp RALT
             >;
         };
